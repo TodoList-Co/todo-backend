@@ -27,5 +27,5 @@ A todo must have 3 fields: ID, text, and complete:
 -   [ ] Get all todos at the endpoint /todos
 -   [ ] Get a particular todo at the endpoint /todo/:todoId
 -   [ ] Create a todo at /todos
--   [ ] Update a todo at /todos/:todoId
+-   [ ] Update todo's "complete" status at /todos/:todoId
 -   [ ] Delete a todo at /todos/:todoId
